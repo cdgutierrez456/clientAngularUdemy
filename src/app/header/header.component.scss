@@ -1,11 +1,10 @@
 .header {
   width: 100%;
-  background: aqua;
-  height: 100px;
+  height: 80px;
   display: flex;
   justify-content: center;
   align-items: center;
-
+  box-shadow: rgba(50, 50, 93, 0.25) 0px 13px 27px -5px, rgba(0, 0, 0, 0.3) 0px 8px 16px -8px;
   &__nav {
     width: 100%;
     display: flex;
